@@ -9,6 +9,10 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
 
+    <modules>
+        <module>leetcode</module>
+    </modules>
+
     <build>
         <plugins>
             <plugin>
@@ -21,8 +25,5 @@
             </plugin>
         </plugins>
     </build>
-    <modules>
-        <module>leetcode</module>
-    </modules>
 
 </project>
