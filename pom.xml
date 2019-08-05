@@ -21,5 +21,8 @@
             </plugin>
         </plugins>
     </build>
+    <modules>
+        <module>leetcode</module>
+    </modules>
 
 </project>
